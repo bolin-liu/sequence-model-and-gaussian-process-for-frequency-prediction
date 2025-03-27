@@ -1,5 +1,5 @@
 # sequence-model-and-gaussian-process-for-frequency-prediction
-Code for the Paper: Predicting grid frequency short-term dynamics with Gaussian processes and sequence modeling (submitted)
+Code for the Paper: Predicting grid frequency short-term dynamics with Gaussian processes and sequence modeling (published)
 
 - models.py contains the model structures of the customised transformer structure and gru structure.
 - experiment.py script for training different models
